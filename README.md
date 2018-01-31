@@ -21,7 +21,7 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-### 使用的插件
+## 使用的插件
 
 [axios](https://www.jianshu.com/p/df464b26ae58) 异步ajax请求(别人写的比较好的文档)
 
