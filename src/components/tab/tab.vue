@@ -16,7 +16,7 @@
 </template>
 <script>
 export default {
-  
+
 }
 </script>
 <style scoped lang="stylus" rel="stylesheet/stylus">
@@ -37,5 +37,3 @@ export default {
           color: $color-theme
           border-bottom: 2px solid $color-theme
 </style>
-
-
