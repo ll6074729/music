@@ -22,6 +22,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 #使用的插件
+
 [axios](https://www.jianshu.com/p/df464b26ae58) 异步ajax请求(别人写的比较好的文档)
 
 [better-scroll](https://ustbhuangyi.github.io/better-scroll/#/examples/zh)  滑动插件 (主要给展示demo)
